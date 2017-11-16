@@ -13,7 +13,8 @@ a {
 
 p{
   background-color: black;
-  align-content: center;
+  align: center;
+  text-align: center;
 }
 
 h1 {
@@ -22,12 +23,16 @@ h1 {
   color: white;
   text-align: center;
 }
+
 h2 {
   font-weight: 300;
   font-size: 42px;
+  text-align: center;
+  color: white;
 }
 
 h3{
+  text-align: center;
   color: Gray;
 }
  .copyright {
