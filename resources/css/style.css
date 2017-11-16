@@ -1,0 +1,15 @@
+/* Stylesheet for 'Excursions' project for Codecademy
+ */
+
+ body {
+   background-color: black;
+ }
+
+ h1,
+ h2 {
+   color: white;
+ }
+
+ .copyright {
+   color: gray;
+ }
