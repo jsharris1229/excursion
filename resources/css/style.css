@@ -1,22 +1,32 @@
 /* Stylesheet for 'Excursions' project for Codecademy
+  J. Stuart Harris
  */
 
+/* Set the background and font for the entire website
+*/
  * {
    background-color: black;
    font-family: Verdana, sans-serif;
  }
 
+/* Color the anchor/links to aquamarine
+*/
 a {
   color: aquamarine;
   font-size: 16px;
 }
 
+/* Paragraphs are used for each element, the entire site is centered with
+   black backround for use with reverse type (white and gray)
+ */
 p{
   background-color: black;
   align: center;
   text-align: center;
 }
 
+/* Three levels of headers are used to organize the content.
+ */
 h1 {
   font-weight: normal;
   font-size: 50px;
@@ -35,6 +45,9 @@ h3{
   text-align: center;
   color: Gray;
 }
+
+/* This class is used for the footer at the end of the page
+ */
  .copyright {
    color: Gray;
    text-align: right;
